@@ -15,7 +15,7 @@ Número de participantes: **220 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: [**Instagram**](https://www.instagram.com/p/C2aJIr9B1Yu/?img_index=1)
 
-Deixo aqui meus agradecimentos **Daniel Ginês** e à **Aline Martins** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DevOps Experience**.
+Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DevOps Experience**.
 
 ---
 
