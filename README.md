@@ -19,9 +19,6 @@ Deixo aqui meus agradecimentos **Daniel Ginês** e à **Aline Martins** por todo
 
 ---
 
-
----
-
 ![Palestrando](img/audiencia.png)
 
 ![Palestrando](img/m-01.png)
